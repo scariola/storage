@@ -1,0 +1,1 @@
+mvn clean deploy  -DmuleDeploy "-Danypoint.platform.client_id=108012d8a81e4a29815cfdb10a94bd9e" "-Danypoint.platform.client_secret=166351AFCE744fDDa08719e668141497" "-Denv=dev" "-Dsecure.key=Dev#Key2025@xA1z" -DskipTests
